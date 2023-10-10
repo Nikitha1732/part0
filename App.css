@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.candidate-info {
+  background-color: #d62727;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+}
